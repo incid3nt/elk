@@ -27,3 +27,5 @@
 
 #### Задание 1.
 ![Elasticsearch](img/photo_2025-06-21_19-47-14.jpg)
+#### Задание 2.
+![Elasticsearch1](img/photo_2025-06-21_19-56-53.jpg)
