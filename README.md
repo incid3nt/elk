@@ -31,3 +31,5 @@
 ![Elasticsearch1](img/photo_2025-06-21_19-56-53.jpg)
 #### Задание 3.
 ![Elasticsearch1](img/photo_2025-06-21_20-28-09.jpg)
+#### Задание 4.
+![Elasticsearch1](img/photo_2025-06-21_21-38-41.jpg)
